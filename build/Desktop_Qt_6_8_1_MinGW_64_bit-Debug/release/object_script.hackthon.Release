@@ -1,0 +1,10 @@
+release/admin.o
+release/dbmanager.o
+release/main.o
+release/mainwindow.o
+release/register.o
+release/user.o
+release/moc_admin.o
+release/moc_mainwindow.o
+release/moc_register.o
+release/moc_user.o
