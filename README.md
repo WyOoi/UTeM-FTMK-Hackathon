@@ -31,7 +31,6 @@ This parking management system is designed to help users monitor parking availab
 
 - **Framework**: Qt 6.x with C++17
 - **Database**: SQLite
-- **Architecture**: Model-View-Controller (MVC) pattern
 - **UI**: Qt Designer (.ui files)
 - **Build System**: qmake (.pro file)
 
@@ -213,10 +212,6 @@ This project was developed by the following team members during the **UTeM FTMK 
 | Project Lead | [@Ran-25](https://github.com/Ran-25) | Project Lead |
 | Member 2 | [@HykalZlkifly](https://github.com/HykalZlkifly) | Backend Developer |
 | Me       | [@WyOoi](https://github.com/WyOoi) | Frontend Developer |
-
-## 🔗 Repository
-
-**GitHub**: [UTeM-FTMK-Hackathon](https://github.com/WyOoi/UTeM-FTMK-Hackathon.git)
 
 ---
 
